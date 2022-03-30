@@ -1,0 +1,16 @@
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\bin\Debug\PolymorphismHometask.exe.config
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\bin\Debug\PolymorphismHometask.exe
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\bin\Debug\PolymorphismHometask.pdb
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.exe
+C:\Users\Hp\source\repos\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.pdb
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\bin\Debug\PolymorphismHometask.exe.config
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\bin\Debug\PolymorphismHometask.exe
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\bin\Debug\PolymorphismHometask.pdb
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.exe
+C:\Users\Hp\Desktop\PolymorphismHometask\PolymorphismHometask\obj\Debug\PolymorphismHometask.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\bin\Debug\PolymorphismClassTask.exe.config
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\bin\Debug\PolymorphismClassTask.exe
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\bin\Debug\PolymorphismClassTask.pdb
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\obj\Debug\PolymorphismClassTask.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\obj\Debug\PolymorphismClassTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\obj\Debug\PolymorphismClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\obj\Debug\PolymorphismClassTask.exe
+C:\Users\Hp\source\repos\PolymorphismClassTask\PolymorphismClassTask\obj\Debug\PolymorphismClassTask.pdb
